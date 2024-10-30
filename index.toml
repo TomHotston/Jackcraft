@@ -56,11 +56,6 @@ hash = "92c790e29e84b5e52fab8cc75fad2d8bfe5ed730540fff68388e76bdcfa4f1d7"
 metafile = true
 
 [[files]]
-file = "mods/chipped.pw.toml"
-hash = "41c81f095b5a96775d2cf261dc8350e8214ef3a12bfa608f2761634e8560cfb9"
-metafile = true
-
-[[files]]
 file = "mods/cloth-config.pw.toml"
 hash = "b2d6595b73bd66167a4d7ace472c54c0eab45f55e1769f4ff7da72ce8b58872a"
 metafile = true
@@ -78,11 +73,6 @@ metafile = true
 [[files]]
 file = "mods/configured.pw.toml"
 hash = "e1b96a7b1d81aa26642379484ff427392dcc11e01d8d780d302f6db0f6af97d7"
-metafile = true
-
-[[files]]
-file = "mods/connected-glass.pw.toml"
-hash = "131036cbc2cbd8f7940291510c6f803c24b1e61f6504cd7f3ca51c1dcd4769ea"
 metafile = true
 
 [[files]]
@@ -153,11 +143,6 @@ metafile = true
 [[files]]
 file = "mods/ftb-ultimine-fabric.pw.toml"
 hash = "dfa3b6fcff71eda68630dbadf8e23d28713e8ee45fd26a4b1df53a98c804575c"
-metafile = true
-
-[[files]]
-file = "mods/fusion-connected-textures.pw.toml"
-hash = "3617bcf1786f111f8a472145a13e02bdf24d2c2dadeaf294113fccd9acb6e1fa"
 metafile = true
 
 [[files]]
@@ -328,11 +313,6 @@ metafile = true
 [[files]]
 file = "mods/sophisticated-storage-(unofficial-fabric-port).pw.toml"
 hash = "a370f9192a7f4fb1ae4da751aba1c71ba94055278152e1ac3de3c1d6270c8b57"
-metafile = true
-
-[[files]]
-file = "mods/supermartijn642s-core-lib.pw.toml"
-hash = "a6ae5bbb1c637f9f792eefcbf889b2de2d822312291e6e1f9734b1c32ea45418"
 metafile = true
 
 [[files]]
