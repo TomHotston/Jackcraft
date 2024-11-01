@@ -1,6 +1,214 @@
 hash-format = "sha256"
 
 [[files]]
+file = "LICENSE"
+hash = "6c429a7e7c6438836b1783bb382921932f27e3cb1ba53d460061e71641f013be"
+
+[[files]]
+file = "README.md"
+hash = "98bb1bc0eba75a3d119bea9584fada0867849c8ff73a64a488e9b607a1dfbddb"
+
+[[files]]
+file = "config/ae2/client.json"
+hash = "c1a4e1058ad7970f2f4d83aab93afda83ea713026c8ebc1d63942ee66a6d3c66"
+
+[[files]]
+file = "config/ae2/common.json"
+hash = "71b18b0d91c6e3be6d4bcc44faaf461158bdfccbd69feddac924da376e07d373"
+
+[[files]]
+file = "config/balm-common.toml"
+hash = "33606d9f309e655d6494dab932a061efe1f1f917a286bfc74b07f1876096464f"
+
+[[files]]
+file = "config/biomesoplenty/biome_toggles.json"
+hash = "6e81cf8f8ffd55004413d05e2579a63613d39a180bf5a4ff67ffa98ec44b1aa9"
+
+[[files]]
+file = "config/biomesoplenty/gameplay.toml"
+hash = "659a0e32bcbb7c13496cde1bcbc8f72291a2f5baef118f6ad23c46fa0edae8f4"
+
+[[files]]
+file = "config/biomesoplenty/generation.toml"
+hash = "bb153ac70e35ab8acaea8a07879ff39989847f5d3d0c57410ea64720b793776e"
+
+[[files]]
+file = "config/cardinal-components-api.properties"
+hash = "f7e7f346e0724cf9cfb77f44dec2e7d202ea2507729ec7b95ee6a8f089c82982"
+
+[[files]]
+file = "config/carryon-client.json"
+hash = "b66da6824b6141acca353406c20654ebf599c814d50da37006b2bf51009b4f2a"
+
+[[files]]
+file = "config/carryon-common.json"
+hash = "da6fdce0a0b230f5ad04a17eba82e3d54651e9c540177e0169cdfe9e6ecba00e"
+
+[[files]]
+file = "config/charmofundying-server.toml"
+hash = "53872c9097de973cc618413f75bef63816b56dc2f838ceee7813c4d175cb253d"
+
+[[files]]
+file = "config/comforts-server.toml"
+hash = "00097d03bb5a4016c869695ecce545a38391c7089d8bd9f80cd6feccbae9738e"
+
+[[files]]
+file = "config/configured-client.toml"
+hash = "eb911eab8f1efdb7490dfe80ce95f3d704e0791fb433e2f8177b51860dfbb218"
+
+[[files]]
+file = "config/configured-developer.toml"
+hash = "86c3f415d693ec6e09f98f8b27a5d7e15c64d2e9a9c9d24713aeed274be40947"
+
+[[files]]
+file = "config/create-client.toml"
+hash = "194d67242dce87fde5db562f10beec343ff3b2fa4577d9b4d8e2fcd0a78c0dcb"
+
+[[files]]
+file = "config/create-common.toml"
+hash = "1c632f62c30f4e1223669267196d2ff1a2c03e400bf565ff4fe81e20c7cd2bdf"
+
+[[files]]
+file = "config/create-server.toml"
+hash = "201d8b1c0ff0a56f884af53e561a618b4964e1e199a31e2454a8b5fe19f72a46"
+
+[[files]]
+file = "config/createaddition-common.toml"
+hash = "b2dace4eb60213f2efda2b1d9a52ca63693dfd931c3c465c72a7eff91af8c173"
+
+[[files]]
+file = "config/cristellib/minecraftED.json5"
+hash = "8e01cc9b7e46f74fd60ce36d3459628b8198cb988051ae52f14cda36ef0fd869"
+
+[[files]]
+file = "config/cristellib/minecraftP.json5"
+hash = "8fe09b83f2fe6bf9d547e99b8d883aef42bf3d9e2e6f5bd43ec3fcd4c7f756da"
+
+[[files]]
+file = "config/de/mari_023/ae2wtlib.json5"
+hash = "e9838cc6c67a746008e2c8bc88577be4c350d4f990ee5ca4861f07bce76e36ea"
+
+[[files]]
+file = "config/easymagic-server.toml"
+hash = "9da978278198863dbe5761c34d38f742c4a20fd128e5c23bbf97cb659766e38c"
+
+[[files]]
+file = "config/fallingtree.json"
+hash = "922a0a06c316eb1f0aba285f5bc59f4421b51b6f861661f3cdab38bbd44e4927"
+
+[[files]]
+file = "config/farmersdelight-common.toml"
+hash = "bafc1e3a07f59e137f65332ade23cb462d9ec395ab501d36d9dc192267e8c628"
+
+[[files]]
+file = "config/ferritecore.mixin.properties"
+hash = "3cc3011619f098fda6ad213a7c4d1468802ff827591a5917c2b7bf3150bfb2ea"
+
+[[files]]
+file = "config/forgeconfigapiport.toml"
+hash = "ebeeb3ad6a574d20f2fabaffd46b0cd8cebcfa5cdd63efd3c8faeb26162b6388"
+
+[[files]]
+file = "config/harvest_with_ease-common.toml"
+hash = "e67ea05b460084d4d4907f2b41ff609a2ae7e77f6acf63491242277e28e321b1"
+
+[[files]]
+file = "config/jade/server-plugin-overrides.json"
+hash = "44136fa355b3678a1146ad16f7e8649e94fb4fc21fe77e8310c060f61caaff8a"
+
+[[files]]
+file = "config/jade/sort-order.json"
+hash = "ac5d291e0c443653033c2204bcb9650af5666ce53e7eb46c471d4c5a5380c77b"
+
+[[files]]
+file = "config/lithium.properties"
+hash = "76765e8e5ff8e927d80beb0739aababcf36e7babfd94262f2afece256cc5cd2e"
+
+[[files]]
+file = "config/modernfix-mixins.properties"
+hash = "808bf0313e31da40d8d60db8b1d83f328bdbfd2db21f9acab3eae145d707b95f"
+
+[[files]]
+file = "config/naturalist.json"
+hash = "24e5ae46ed559982b771d246709d855caeeb55e837df1bf131e91fd5b6f3a42f"
+
+[[files]]
+file = "config/naturescompass.json"
+hash = "a6a872fbce46949e96a433d5a088084d77c30e388b6da1542ffd8b773e682b4c"
+
+[[files]]
+file = "config/railways-client.toml"
+hash = "856cf42f8272bdc95d5feef60f13f0d9954b1d3cfac923ad1c736fc9efe3f800"
+
+[[files]]
+file = "config/railways-common.toml"
+hash = "cf3c9c86459a6d341ff8419fd49bf332d7e12b9a25e5c2605cfe5c0b28e52e41"
+
+[[files]]
+file = "config/railways-server.toml"
+hash = "5f8b995f539e2f917bb8163621362f25a4bf10a74a1a5a6e24f2e9df4935f9a1"
+
+[[files]]
+file = "config/smallships-client.toml"
+hash = "f44c01da9a381d5dadbc1bafa883a1b5120c930f6b2c368446bbbd73ce41a61a"
+
+[[files]]
+file = "config/smallships-common.toml"
+hash = "eb7b9ec24aff4561122212908138b709b341f578bd31262e17d9cd9022d0ba17"
+
+[[files]]
+file = "config/sophisticatedbackpacks-common.toml"
+hash = "ce60ba4ebdbb1ba959f3ee6be206f84f2221b8dc436140c92cda412ef33f10e6"
+
+[[files]]
+file = "config/sophisticatedbackpacks-server.toml"
+hash = "4a2d9b03b89bccd64bb7fd17605593a6c35d95a914ce84dfa038f63cc5cf2fe1"
+
+[[files]]
+file = "config/sophisticatedcore-client.toml"
+hash = "20a722a82474b3491b31807e18d93f253c58e472c7c65c1913f921b78ee91063"
+
+[[files]]
+file = "config/sophisticatedcore-common.toml"
+hash = "9272380d85ac045b5be60dc5b7b2a09c451f79b656784b0c34587aee9faeae2f"
+
+[[files]]
+file = "config/sophisticatedstorage-client.toml"
+hash = "94f2a696e21aaaa2d78bf37da45cf887aaa25878d45c023e491633ec863ff9b9"
+
+[[files]]
+file = "config/sophisticatedstorage-common.toml"
+hash = "598a20e3ee0ab0a5914e6cfe3f963bf5a58a29218b30ae3af4f91449b8e93181"
+
+[[files]]
+file = "config/sophisticatedstorage-server.toml"
+hash = "caf59b65f0e0da72c9f25f0d0ff96e04c6d2cd2e96a957eb9f68f469f63b5bdc"
+
+[[files]]
+file = "config/terrablender.toml"
+hash = "3fdb9aabe738185587f39bc8a8b425a3454ecdcd99f565a4368d5deb41467a2d"
+
+[[files]]
+file = "config/towns_and_towers/structure_enable_or_disable_new.json5"
+hash = "3aaa6ac8835dbbce97928c4d0d03f9957749a7a57a3f1668597310e9227900da"
+
+[[files]]
+file = "config/towns_and_towers/structure_rarity_new.json5"
+hash = "d2d6184da2107dca56754123361f709c3871126ef5cffd3b0edc7ce91aadbb28"
+
+[[files]]
+file = "config/tradingpost-server.toml"
+hash = "01a4cc5340816e0965c7d15dfe04921a7fb992b2df0cc6623bb9689d784aac5c"
+
+[[files]]
+file = "config/waystones-common.toml"
+hash = "3c3a2fca564353cf5639b1448490e8179167efff7241c8da808e58b8df7aca8e"
+
+[[files]]
+file = "config/yigd.json"
+hash = "5ca131dd546f4bf679e7f4deb4f0e49de27f6500be233880d4c3554c6b2e2ab4"
+
+[[files]]
 file = "mods/ae2.pw.toml"
 hash = "30f6a07aacfc0b9a5038a3e5261f231e81af3b6388cf473c87f978f4e2fb9347"
 metafile = true
