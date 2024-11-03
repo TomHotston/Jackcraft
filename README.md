@@ -31,7 +31,7 @@ The modpack can be successfully installed from the github releases page using th
 > 2. Select the `Mods` menu.
 > 3. Mods can be added via the `Download mods` button or by adding the files directly using the `Add file` button.
 
-> [!IMPORTANT]
+> [!CAUTION]
 > Do not press `Check for updates` as this can cause different mod versions to be installed, resulting in incompatability with the server.
 
 7. Double click the pack to launch the game.
