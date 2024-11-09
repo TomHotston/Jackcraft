@@ -15,7 +15,7 @@ The modpack can be successfully installed from the github releases page using th
 > [!NOTE]
 > The Prism Launcher is an Open Source minecraft launcher with a built in mod manager. As such it can be used to install `.mrpack` files.
 
-2. Download the latest `.mrpack` file from the github releases page of this project.
+2. Download the latest `.mrpack` file from the github [releases page](https://github.com/TomHotston/Jackcraft/releases) of this project.
 
 3. Select the `Add Instance` button in the Prism Launcher.
 
