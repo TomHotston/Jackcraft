@@ -466,6 +466,10 @@ metafile = true
 [[files]]
 file = "mods/farmers-delight-refabricated.pw.toml"
 hash = "d7f5c29f51b6e866f2227936ca124123ef5794813b791faf04d9fa66723bf2ff"
+
+[[files]]
+file = "mods/fastback.pw.toml"
+hash = "27058ff24b894fe8d1157017c13db4bb5f4953d9a89a76b7ba0ad9d1723f4d19"
 metafile = true
 
 [[files]]
@@ -476,6 +480,10 @@ metafile = true
 [[files]]
 file = "mods/forge-config-api-port.pw.toml"
 hash = "129bb8b135edc60038f021b693f5b88a0067b722f326e0d6067112243774289b"
+
+[[files]]
+file = "mods/framework.pw.toml"
+hash = "0673fc42b2d2fe78cc60c8fbc2a51a731a73404bde3a11f91d65bd234d59ff91"
 metafile = true
 
 [[files]]
@@ -646,6 +654,10 @@ metafile = true
 [[files]]
 file = "mods/puzzles-lib.pw.toml"
 hash = "5dbd17b4eb5a496d819cc5d02c683733735bbdc30cd3cc79d3ad1873a9ec67e4"
+
+[[files]]
+file = "mods/refurbished-furniture.pw.toml"
+hash = "4e02cf492b981d533d3785c37c98c9aeee8498ea9cb076bc6e6bdc5d34256f47"
 metafile = true
 
 [[files]]

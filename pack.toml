@@ -1,13 +1,13 @@
 name = "Jackcraft"
 author = "Jack Martin; Tom Hotston"
-version = "1.0.0"
+version = "1.1.0"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "be4c1f342904f97e442c7aa5ec12eb3a5076e687952c1df0296f5208bcbf4a76"
+hash = "efb44d19956be4a8a8a8989ff39273a6c78d6723b71934c9dc21b0b7cf8f2a8a"
 
 [versions]
-fabric = "0.16.7"
+fabric = "0.16.9"
 minecraft = "1.20.1"
